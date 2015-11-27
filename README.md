@@ -14,7 +14,7 @@ Addison Wesley, 1996
 # Demonstration
 
 The following demonstration was tested on a Macbook Pro running MacOS X (10.10.5)
-with homebrew. To compile the compiler for the *first* time, checkout the
+with [homebrew](http://brew.sh). To compile the compiler for the *first* time, checkout the
 repository and use cmake to compile the compiler.
 
 ```bash
